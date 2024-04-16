@@ -1,0 +1,4 @@
+Film Name,Rating,Genre
+Star Wars,"{'ratingCount': 1447797, 'bestRating': 10, 'worstRating': 1, 'ratingValue': 8.6}","['Action', 'Adventure', 'Fantasy']"
+Deadpool & Wolverine,"{'ratingCount': None, 'bestRating': None, 'worstRating': None, 'ratingValue': None}","['Action', 'Comedy', 'Sci-Fi']"
+The Shawshank Redemption,"{'ratingCount': 2883648, 'bestRating': 10, 'worstRating': 1, 'ratingValue': 9.3}",['Drama']
